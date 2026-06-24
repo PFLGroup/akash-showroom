@@ -1,0 +1,9 @@
+# Foldery robocze — NIE publikować na GitHub Pages
+_brief/
+_research/
+_zdjecia/
+
+# systemowe
+Thumbs.db
+.DS_Store
+desktop.ini

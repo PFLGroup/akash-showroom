@@ -1,0 +1,6 @@
+# Prototyp koncepcyjny — indeksowanie wstrzymane przez meta robots (noindex).
+# Crawl dozwolony, by roboty odczytały noindex.
+User-agent: *
+Allow: /
+
+Sitemap: https://pflgroup.github.io/akash-showroom/sitemap.xml
